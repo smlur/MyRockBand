@@ -1,0 +1,835 @@
+novel
+images/black.jpg
+
+С детства я очень сильно любил музыку.
+255 255 255
+False
+_
+novel
+images/black.jpg
+
+Поэтому в 8 лет родители купили мне гитару, и я с ней стал неразлучен.
+255 255 255
+False
+_
+novel
+images/black.jpg
+
+Слушать музыку, ходить на концерты, играть на гитаре и петь - это в моей крови.
+255 255 255
+False
+_
+novel
+images/black.jpg
+
+Как раз недавно я побывал на концерте у своей любимой рок группы.
+255 255 255
+False
+_
+novel
+images/black.jpg
+
+Эхххх вот бы у меня тоже была своя...
+255 255 255
+False
+_
+novel
+images/hero_room.jpeg
+
+...Сегодня утром я узнал что моему Макосу подарили гитару.
+255 255 255
+False
+_
+novel
+images/hero_room.jpeg
+
+Я приду к нему и научу его основам игры.
+255 255 255
+False
+_
+darkness
+images/hero_room.jpeg
+_
+novel
+images/friend_room.jpeg
+Макос
+..мои пальцы скоро отвалятся
+146 170 246
+images/friend.png
+680 500
+100 150
+_
+novel
+images/friend_room.jpeg
+Линукс
+Это основа основ, тренируйся.
+255 255 255
+images/hero.png
+30 450
+200 200
+_
+novel
+images/friend_room.jpeg
+Макос
+Ты сам то так сможешь играть?
+146 170 246
+images/friend.png
+680 500
+100 150
+_
+novel
+images/friend_room.jpeg
+Линукс
+Я смогу сыграть что угодно.
+255 255 255
+images/hero.png
+30 450
+200 200
+_
+novel
+images/friend_room.jpeg
+Макос
+Прошу.
+146 170 246
+images/friend.png
+680 500
+100 150
+_
+novel
+images/friend_room.jpeg
+Обучение
+Нажимайте клавиши от 1-4 в соответствии с кружком.
+255 255 255
+False
+_
+darkness
+images/friend_room.jpeg
+_
+guitar
+images/friend_room.jpeg
+musics/Where_is_my_mind.mp3
+0
+_
+novel
+images/friend_room.jpeg
+Макос
+Вау да ты мастер!
+146 170 246
+images/friend.png
+680 500
+100 150
+_
+novel
+images/friend_room.jpeg
+Линукс
+Ну так.
+255 255 255
+images/hero.png
+30 450
+200 200
+_
+novel
+images/friend_room.jpeg
+Макос
+Ладно я попытаюсь разобраться во всем что ты мне показал...
+146 170 246
+images/friend.png
+680 500
+100 150
+_
+novel
+images/friend_room.jpeg
+Макос
+А потом создадим супер популярную рок группу как ты и хотел!
+146 170 246
+images/friend.png
+680 500
+100 150
+_
+novel
+images/friend_room.jpeg
+Линукс
+Хахах было бы классно)
+255 255 255
+images/hero.png
+30 450
+200 200
+_
+darkness
+images/friend_room.jpeg
+_
+novel
+images/hero_room.jpeg
+
+На следующий день мне позвонили
+255 255 255
+False
+_
+novel
+images/hero_room.jpeg
+Линукс
+Алло?
+255 255 255
+False
+_
+novel
+images/hero_room.jpeg
+Макос
+Привет
+146 170 246
+False
+_
+novel
+images/hero_room.jpeg
+Линукс
+Привет?
+255 255 255
+False
+_
+novel
+images/hero_room.jpeg
+Макос
+У меня такая классная новость.
+146 170 246
+False
+_
+novel
+images/hero_room.jpeg
+Макос
+Оказывается один мой знакомый умеет играть на барабанах!
+146 170 246
+False
+_
+novel
+images/hero_room.jpeg
+Линукс
+Жееееесть. А в группе он играть не хочет?
+255 255 255
+False
+_
+novel
+images/hero_room.jpeg
+Макос
+У него нет выбора. Я уже договорился с ним о встрече завтра в актовом.
+146 170 246
+False
+_
+novel
+images/hero_room.jpeg
+Линукс
+Ееееееееееее!
+255 255 255
+False
+_
+darkness
+images/hero_room.jpeg
+_
+arcade
+images/rep_zone.png
+888 324
+1150 252
+156 424
+0
+1
+0
+1
+_
+novel
+images/hero_room.jpeg
+
+Каждый день мы собирались в актовом зале и играли.
+255 255 255
+False
+_
+novel
+images/hero_room.jpeg
+
+Я был на 7 небе от счастья.
+255 255 255
+False
+_
+novel
+images/hero_room.jpeg
+
+Но хочется и людям показать свою игру. 
+255 255 255
+False
+_
+novel
+images/hero_room.jpeg
+
+Было бы славно сыграть на улице. 
+255 255 255
+False
+_
+novel
+images/hero_room.jpeg
+
+Предложу завтра эту идею ребятам.
+255 255 255
+False
+_
+darkness
+images/hero_room.jpeg
+_
+arcade
+images/rep_zone.png
+888 324
+1150 252
+156 424
+1
+1
+1
+2
+_
+novel
+images/black.jpg
+
+После того, как мы выбрали песню, мы начали репетировать.
+255 255 255
+False
+_
+novel
+images/black.jpg
+
+Получалось даже очень хорошо.
+255 255 255
+False
+_
+novel
+images/black.jpg
+
+Но было очень волнительно...
+255 255 255
+False
+_
+novel
+images/black.jpg
+
+Первое выступление на публику все-таки.
+255 255 255
+False
+_
+novel
+images/black.jpg
+
+Но мы смогли!
+255 255 255
+False
+_
+guitar
+images/street.jpg
+musics/smoke.mp3
+1
+_
+novel
+images/black.jpg
+*Спустя пару дней*
+
+255 255 255
+False
+_
+novel
+images/hero_room.jpeg
+*Звонок в дверь*
+
+255 255 255
+False
+_
+novel
+images/hero_room.jpeg
+Линукс
+Ого Муром что-то случилось?
+255 255 255
+images/hero.png
+30 450
+200 200
+_
+novel
+images/hero_room.jpeg
+Линукс
+Ты видимо спешил.
+255 255 255
+images/hero.png
+30 450
+200 200
+_
+novel
+images/hero_room.jpeg
+Муром
+Да...
+110 219 154
+images/drumers.png
+680 500
+100 150
+_
+novel
+images/hero_room.jpeg
+Муром
+Я тебе сейчас такое расскажу...
+110 219 154
+images/drumers.png
+680 500
+100 150
+_
+darkness
+images/hero_room.jpeg
+_
+novel
+images/room.png
+Муром
+Сегодня был обычный день когда я занимался барабанами.
+110 219 154
+False
+_
+novel
+images/room.png
+Муром
+Я как обычно разминался и играл свою любимую песню.
+110 219 154
+False
+_
+novel
+images/room.png
+Муром
+И вот ко мне подходит какой то мужик.
+110 219 154
+False
+_
+novel
+images/room.png
+???
+Слушай, а это ли не вы играли пару дней назад в парке?
+0 255 255
+images/muzlan.png
+680 500
+100 150
+_
+novel
+images/room.png
+Муром
+Ну да, это мы были.
+110 219 154
+images/drumers.png
+80 500
+100 150
+_
+novel
+images/room.png
+???
+Ребята вы так круто сыграли, вы большие молодцы!
+0 255 255
+images/muzlan.png
+680 500
+100 150
+_
+novel
+images/room.png
+Муром
+Спасибо.
+110 219 154
+images/drumers.png
+80 500
+100 150
+_
+novel
+images/room.png
+???
+Знаете, я хочу вам кое-что предложить.
+0 255 255
+images/muzlan.png
+680 500
+100 150
+_
+novel
+images/room.png
+???
+Я хозяин одного бара в городе,и ему очень не хватает живой музыки.
+0 255 255
+images/muzlan.png
+680 500
+100 150
+_
+novel
+images/room.png
+???
+Не хотели бы вы сыграть в нем?
+0 255 255
+images/muzlan.png
+680 500
+100 150
+_
+novel
+images/room.png
+Муром
+Я подумаю...
+110 219 154
+images/drumers.png
+80 500
+100 150
+_
+novel
+images/room.png
+???
+Буду надеяться вы согласитесь.
+0 255 255
+images/muzlan.png
+680 500
+100 150
+_
+darkness
+images/room.png
+_
+novel
+images/hero_room.jpeg
+Линукс
+Офигеть.
+255 255 255
+images/hero.png
+80 500
+200 200
+_
+novel
+images/hero_room.jpeg
+Муром
+Я тоже в шоке.
+110 219 154
+images/drumers.png
+680 500
+100 150
+_
+novel
+images/hero_room.jpeg
+Линукс
+Это наш шанс, нам обязательно надо сыграть.
+255 255 255
+images/hero.png
+80 500
+200 200
+_
+novel
+images/hero_room.jpeg
+Муром
+Да ты прав.
+110 219 154
+images/drumers.png
+680 500
+100 150
+_
+novel
+images/hero_room.jpeg
+Линукс
+Завтра я предложу ребятам.
+255 255 255
+images/hero.png
+80 500
+200 200
+_
+novel
+images/hero_room.jpeg
+Муром
+До завтра тогда.
+110 219 154
+images/drumers.png
+680 500
+100 150
+_
+novel
+images/hero_room.jpeg
+Линукс
+До завтра.
+255 255 255
+images/hero.png
+80 500
+200 200
+_
+darkness
+images/hero_room.jpeg
+_
+arcade
+images/rep_zone.png
+888 324
+1150 252
+156 424
+1
+1
+1
+3
+_
+novel
+images/black.jpg
+
+Посовещавшись с ребятами мы решили согласиться на выступление.
+255 255 255
+False
+_
+novel
+images/bar.png
+
+И вот мы уже в баре проводим саунд чек.
+255 255 255
+False
+_
+novel
+images/bar.png
+
+До начала пару минут.
+255 255 255
+False
+_
+novel
+images/bar.png
+
+И мы готовы как никогда.
+255 255 255
+False
+_
+novel
+images/bar.png
+
+Я представить себе не мог что мы будем когда-нибудь выступать в баре.
+255 255 255
+False
+_
+darkness
+images/bar.png
+_
+guitar
+images/bar.png
+musics/queen.mp3
+2
+_
+novel
+images/bar.png
+
+Наше выступление было потрясающим!
+255 255 255
+False
+_
+novel
+images/bar.png
+
+Все громко громко аплодировали, и теперь мы стали частыми гостями в этом баре.
+255 255 255
+False
+_
+darkness
+images/bar.png
+_
+novel
+images/black.jpg
+
+...в очередной день я пришел на репетицию на репетицию.
+255 255 255
+False
+_
+arcade
+images/rep_zone.png
+888 324
+1150 252
+156 424
+0
+0
+1
+4
+_
+novel
+images/black.jpg
+
+День концерта 
+255 255 255
+False
+_
+novel
+images/big_scene.jpg
+
+Хоть мы и просто играем на разогреве.
+255 255 255
+False
+_
+novel
+images/big_scene.jpg
+
+Но пару месяцев назад я и представить себе этого не мог.
+255 255 255
+False
+_
+novel
+images/big_scene.jpg
+
+А сейчас пара минут и наш выход...
+255 255 255
+False
+_
+darkness
+images/big_scene.jpg
+_
+guitar
+images/big_scene.jpg
+musics/in_the_end.mp3
+3
+_
+novel
+images/big_scene.jpg
+
+Мы справились...
+255 255 255
+False
+_
+novel
+images/big_scene.jpg
+
+Мы сыграли...
+255 255 255
+False
+_
+novel
+images/big_scene.jpg
+
+Так волнительно еще давно не было.
+255 255 255
+False
+_
+novel
+images/big_scene.jpg
+К нам подошел лидер Rannshein.
+
+255 255 255
+False
+_
+novel
+images/big_scene.jpg
+Лидер
+Ребят вы так понравились зрителям.
+255 0 255
+images/muzlan.png
+680 500
+110 160
+_
+novel
+images/big_scene.jpg
+Лидер
+Они просят вас выйти на бис!
+255 0 255
+images/muzlan.png
+680 500
+110 160
+_
+novel
+images/big_scene.jpg
+Макос
+Что?
+146 170 246
+images/drumers.png
+80 500
+100 150
+_
+novel
+images/big_scene.jpg
+Линукс
+Правда?
+255 255 255
+images/hero.png
+80 500
+200 200
+_
+novel
+images/big_scene.jpg
+Лидер
+Даааа!
+255 0 255
+images/muzlan.png
+680 500
+110 160
+_
+novel
+images/big_scene.jpg
+Лидер
+Поторопитесь!
+255 0 255
+images/muzlan.png
+680 500
+110 160
+_
+novel
+images/big_scene.jpg
+
+Из-за кулис мы выбежали на сцену.
+255 255 255
+False
+_
+darkness
+images/big_scene.jpg
+_
+guitar
+images/big_scene.jpg
+musics/mutter.mp3
+4
+_
+drum
+_
+novel
+images/black.jpg
+
+Поверить не могу...
+255 255 255
+False
+_
+novel
+images/black.jpg
+
+Еще пару месяцев назад.
+255 255 255
+False
+_
+novel
+images/black.jpg
+
+Я лежал на кровати и просто мечтал о том, чтобы сыграть на улице.
+255 255 255
+False
+_
+novel
+images/black.jpg
+
+А сейчас...
+255 255 255
+False
+_
+novel
+images/black.jpg
+
+Моя мечта сбылась.
+255 255 255
+False
+_
+novel
+images/black.jpg
+
+У меня появилась своя рок группа.
+255 255 255
+False
+_
+novel
+images/black.jpg
+
+У меня появились самые лучшие друзья.
+255 255 255
+False
+_
+novel
+images/black.jpg
+
+Мы стали популярны.
+255 255 255
+False
+_
+novel
+images/black.jpg
+
+Что еще может быть нужным для счастья?
+255 255 255
+False
+_
+end
+_
